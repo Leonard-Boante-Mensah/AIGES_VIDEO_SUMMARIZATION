@@ -12,3 +12,5 @@ Steps in building the model
 8.	Get the training data
 9.	Calculate oracle score for the given user summary
 10.	Select keyframes from the video
+
+Link: This is the link to the dataset --> https://drive.google.com/file/d/1F30YgIYvT55WuNXgnZPvRPqHDTYf9dMm/view?usp=sharing
